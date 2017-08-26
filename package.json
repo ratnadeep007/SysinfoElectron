@@ -1,0 +1,14 @@
+{
+  "name": "sysinfo",
+  "version": "1.0.0",
+  "description": "System Information",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ratnadeep Bhattacharyya",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.5"
+  }
+}
